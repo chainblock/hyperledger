@@ -5,6 +5,10 @@
 ### 环境搭建
 http://8btc.com/article-2889-1.html
 
+### 在Ubuntu上安装
+
+https://github.com/swbsin/SetFabricOnUbuntu
+
 ## 智能合约Hello World
 
 http://www.cnblogs.com/huyouhengbc/p/5934683.html
